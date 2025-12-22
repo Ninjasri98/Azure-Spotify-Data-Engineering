@@ -1,0 +1,9 @@
+{
+	"name": "factoryninjasri",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "532d0f90-5f48-49e0-ae21-7ba55fd69e6a",
+		"tenantId": "5430f911-2495-4661-8b92-610dfb493a15"
+	}
+}
